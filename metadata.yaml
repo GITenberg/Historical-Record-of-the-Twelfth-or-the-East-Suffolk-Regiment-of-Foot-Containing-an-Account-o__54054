@@ -1,6 +1,9 @@
 _repo: Historical-Record-of-the-Twelfth-or-the-East-Suffolk-Regiment-of-Foot-Containing-an-Account-o__54054
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Historical record of the 12th Foot
+covers:
+- cover_type: archival
+  image_path: 54054-h/images/cover.jpg
 creator:
   author:
     agent_name: Cannon, Richard
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '45414'
     url: http://www.gutenberg.org/2009/agents/45414
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54054#Historical-Record-of-the-Twelfth-or-the-East-Suffolk-Regiment-of-Foot-Containing-an-Account-o_
 gutenberg_issued: '2017-01-26'
 gutenberg_type: Text
 identifiers:
