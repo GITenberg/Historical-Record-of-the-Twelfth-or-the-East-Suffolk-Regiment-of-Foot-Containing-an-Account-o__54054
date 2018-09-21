@@ -1,0 +1,27 @@
+_repo: Historical-Record-of-the-Twelfth-or-the-East-Suffolk-Regiment-of-Foot-Containing-an-Account-o__54054
+_version: 0.0.1
+alternative_title: Historical record of the 12th Foot
+creator:
+  author:
+    agent_name: Cannon, Richard
+    birthdate: 1779
+    deathdate: 1865
+    gutenberg_agent_id: '45414'
+    url: http://www.gutenberg.org/2009/agents/45414
+description: ''
+gutenberg_issued: '2017-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54054'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Army. Suffolk Regiment'
+- !lcc 'UA'
+- GITenberg
+title: "Historical Record of the Twelfth, or the East Suffolk, Regiment of Foot\r\n\
+  Containing an Account of the Formation of the Regiment in 1685, and of Its Subsequent\
+  \ Services to 1847"
+url: http://www.gutenberg.org/ebooks/54054
